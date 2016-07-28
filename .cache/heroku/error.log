@@ -31,3 +31,13 @@
 2016/07/28 00:36:14 heroku-cli/5.2.20-9d094b0 (linux-amd64) go1.6.2 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: version
 2016/07/28 00:36:14 heroku-cli/5.2.20-9d094b0 (linux-amd64) go1.6.2 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: commands
 2016/07/28 00:36:14 heroku-cli/5.2.20-9d094b0 (linux-amd64) go1.6.2 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: create
+2016/07/28 00:55:11 heroku-cli/5.2.20-9d094b0 (linux-amd64) go1.6.2 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: version
+2016/07/28 00:55:11 heroku-cli/5.2.20-9d094b0 (linux-amd64) go1.6.2 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: commands
+2016/07/28 00:55:11 heroku-cli/5.2.20-9d094b0 (linux-amd64) go1.6.2 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: login
+2016/07/28 00:55:11 Email: 
+2016/07/28 00:55:28 heroku-cli/5.2.20-9d094b0 (linux-amd64) go1.6.2 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: version
+2016/07/28 00:55:28 heroku-cli/5.2.20-9d094b0 (linux-amd64) go1.6.2 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: commands
+2016/07/28 00:55:28 heroku-cli/5.2.20-9d094b0 (linux-amd64) go1.6.2 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: keys:add
+2016/07/28 00:55:39 heroku-cli/5.2.20-9d094b0 (linux-amd64) go1.6.2 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: version
+2016/07/28 00:55:39 heroku-cli/5.2.20-9d094b0 (linux-amd64) go1.6.2 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: commands
+2016/07/28 00:55:39 heroku-cli/5.2.20-9d094b0 (linux-amd64) go1.6.2 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: create
